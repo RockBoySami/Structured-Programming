@@ -1,4 +1,4 @@
-/*this is the c program for determining a number is positive or negative*/
+/*this is the c program for determining a number is positive or not positive*/
 #include<stdio.h>
 int main(){
         float number;

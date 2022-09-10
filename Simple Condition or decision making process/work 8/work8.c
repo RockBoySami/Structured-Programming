@@ -4,9 +4,11 @@ int main(){
         float number;
         printf("Enter the number: ");
         scanf("%f",&number);
+        
         if (number==0){
         printf("The number is zero");
-        }else{
+        }
+        else{
         printf("The number is not zero");
         }
         return 0;

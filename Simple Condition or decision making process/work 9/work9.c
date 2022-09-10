@@ -1,4 +1,4 @@
-/*this is the program for determining the shortest route*/
+/*this is C the program for determining the shortest route*/
 #include<stdio.h>
 int main(){
         float distance_a,distance_b;
@@ -19,4 +19,3 @@ int main(){
 
         return 0;
         }
-
